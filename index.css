@@ -1,0 +1,37 @@
+#header {
+    background-color: rgb(242, 236, 237);
+    text-align: center;
+    color: rgb(6, 6, 6);
+    margin: auto;
+    height: 80px;
+    width: 100%;
+    border: 2px solid black;
+}
+
+
+#about {
+    background-color: rgb(104, 9, 9);
+    text-align: center;
+    color: aliceblue;
+   
+    margin: auto;
+   
+
+}
+
+.skills{
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    
+}
+.skills > img {
+    margin-left: 2%;
+}
+
+.contacts{
+    align-items: center;
+    background-color: rgb(104, 9, 9);
+    color: aliceblue;
+    text-align: center;
+}
